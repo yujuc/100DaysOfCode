@@ -9,3 +9,5 @@ For practicing coding
 | Day03 | 2020-12-09 | [React City Tours](https://github.com/yujuc/100DaysOfCode/tree/main/react-city-tours) |
 | Day04 | 2020-12-10 | [React Quizbee](https://github.com/yujuc/100DaysOfCode/tree/main/react-quizbee) |
 | Day05 | 2020-12-11 | [React Material-UI Blog](https://github.com/yujuc/100DaysOfCode/tree/main/react-material-ui-blog) |
+| Day06 | 2020-12-12 | [React Recipe App](https://github.com/yujuc/100DaysOfCode/tree/main/react-recipe-app) |
+
