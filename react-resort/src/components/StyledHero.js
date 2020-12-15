@@ -13,6 +13,6 @@ const StyledHero = styled.header`
     display: flex;
     align-items: center;
     justify-content: center;
-`
+`;
 
 export default StyledHero;
