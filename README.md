@@ -13,7 +13,7 @@ For practicing coding
 |       | 2020-12-13 | Go snowboarding 🏂 |
 | Day07 | 2020-12-14 | [React Resort App Part1](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
 | Day08 | 2020-12-15 | [React Resort App Part2](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
-| Day09 | 2020-12-16 | |
+| Day09 | 2020-12-16 | [React Chat App](https://github.com/yujuc/100DaysOfCode/tree/main/react-chats) |
 | Day10 | 2020-12-17 | |
 |       | 2020-12-18 | Birthday Trip ♨️ |
 |       | 2020-12-19 | Birthday Trip 🎂|
