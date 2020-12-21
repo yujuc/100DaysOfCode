@@ -3,9 +3,8 @@ import React, { Component } from 'react';
 import MovieRow from './MovieRow';
 import $ from 'jquery'
 
+const API_key = process.env.REACT_APP_MOVIE_KEY
 class App extends Component {
-
-  API_key = "5072177e34f3293795d33e80b6d4e201";
 
   constructor(props) {
     super(props)
@@ -15,7 +14,9 @@ class App extends Component {
   }
 
   performSearch (searchTerm) {
-    const urlString = `https://api.themoviedb.org/3/search/movie?query=${searchTerm}&api_key=${this.API_key}`;
+    console.log(this.API_key);
+    
+    const urlString = `https://api.themoviedb.org/3/search/movie?query=${searchTerm}&api_key=${API_key}`;
     $.ajax({
       url: urlString,
       success: (searchResults) => {
