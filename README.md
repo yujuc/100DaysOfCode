@@ -11,11 +11,17 @@ For practicing coding
 | Day05 | 2020-12-11 | [React Material-UI Blog](https://github.com/yujuc/100DaysOfCode/tree/main/react-material-ui-blog) |
 | Day06 | 2020-12-12 | [React Recipe App](https://github.com/yujuc/100DaysOfCode/tree/main/react-recipe-app) |
 |       | 2020-12-13 | Go snowboarding 🏂 |
-| Day07 | 2020-12-14 | [React Resort App Part1](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
-| Day08 | 2020-12-15 | [React Resort App Part2](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
+| Day07 | 2020-12-14 | [React Resort App #1](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
+| Day08 | 2020-12-15 | [React Resort App #2](https://github.com/yujuc/100DaysOfCode/tree/main/react-resort) |
 | Day09 | 2020-12-16 | [React Chat App](https://github.com/yujuc/100DaysOfCode/tree/main/react-chats) |
 |       | 2020-12-17 | React Review |
 |       | 2020-12-18 | Birthday Trip ♨️ |
 |       | 2020-12-19 | Birthday Trip 🎂|
 | Day10 | 2020-12-20 | [React Movies Search](https://github.com/yujuc/100DaysOfCode/tree/main/react-movies-search)|
 | Day11 | 2020-12-21 | [React Covid19](https://github.com/yujuc/100DaysOfCode/tree/main/react-covid19)|
+| Day12 | 2020-12-22 | React with Figma and styled-component #1 |
+
+### React with Figma and styled-component
+- Code
+  - [React Figma Signup](https://github.com/yujuc/100DaysOfCode/tree/main/react-figma-signup)
+  - [React Dashboard](https://github.com/yujuc/100DaysOfCode/tree/main/react-dashboard)
