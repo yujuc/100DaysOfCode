@@ -20,6 +20,8 @@ For practicing coding
 | Day10 | 2020-12-20 | [React Movies Search](https://github.com/yujuc/100DaysOfCode/tree/main/react-movies-search)|
 | Day11 | 2020-12-21 | [React Covid19](https://github.com/yujuc/100DaysOfCode/tree/main/react-covid19)|
 | Day12 | 2020-12-22 | React with Figma and styled-component #1 |
+|  | 2020-12-23 | Udemy React/material-ui tutorial |
+|  | 2020-12-24 | Merry Christmas 🎄 |
 
 ### React with Figma and styled-component
 - Code
