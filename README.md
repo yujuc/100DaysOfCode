@@ -25,3 +25,11 @@ For practicing coding
 | Day13 | 2020-12-25 | [React Figma Signup](https://github.com/yujuc/100DaysOfCode/tree/main/react-figma-signup) |
 |  |  | Long break |
 | Day14 | 2021-01-03 | [React Challange 1](https://github.com/yujuc/100DaysOfCode/tree/main/react-challenge/challenge-1-display-data-starter) |
+
+I decide to stop 100DaysOfCode here. From now I will start my 100DaysOfStudy by watching some online videos. After I leared some basic knowledge and syntax, I will come back to resume my 100DaysOfCode Challange!
+
+## 100DaysOfStudy
+
+| # | Date | Course | Note |
+| - | ---- | ------ | ---- |
+| Day01 | 2021-01-15 | CodeWithMosh - HTML5 & CSS3 Series Part1 Done | |
