@@ -1,0 +1,23 @@
+# Useful Links
+- [css validator](https://jigsaw.w3.org/css-validator/) - validate if the css file is appropreate 
+- [html chars](https://dev.w3.org/html5/html-author/charref) - like `&lt;` for `<`
+- [unsplash](https://unsplash.com/) - nice free photos
+- [pixels](https://www.pexels.com/) - nice free photos
+- [can I use](https://caniuse.com/?search=video) - show availability of html / css feature
+- [normalize.css](https://necolas.github.io/normalize.css/) - default css (make elements more consistantly)
+- [css gradient](https://cssgradient.io/) - generate gradient color css code
+- [the shape of css](https://css-tricks.com/the-shapes-of-css/) - generate shape css code
+- [web front generator](https://www.fontsquirrel.com/tools/webfont-generator) - convert font format
+- [Google Fonts](https://fonts.google.com/) - useful free fonts
+- [type scale](https://type-scale.com/) - adjust scale font size
+- [flaticon](https://www.flaticon.com/) - free icons
+- [css sprite](https://cssspritestool.com/) - generate css sprite file (combining image files as one)
+- [css portal](https://www.cssportal.com/) - css reference (properties, tags, animations...etc)
+- [Clippy](https://bennettfeely.com/clippy/) - generate css shape for clipping images
+- [Mozilla css documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) - css doc (with example `filter`)
+- [Responsive image breakpoints](https://www.responsivebreakpoints.com/) - for RWD
+- [File Converter](https://cloudconvert.com/) - convert file type
+- [SVG background](https://www.svgbackgrounds.com/) - customize and generate svg background
+- [Milligram](https://milligram.io/) - css styling (like bootstrap but easier to use)
+- [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - design animation route
+- [Animate css](https://animate.style/) - css for animation
