@@ -38,7 +38,9 @@ I decide to stop 100DaysOfCode here. From now I will start my 100DaysOfStudy by 
 | Day04 | 2021-01-18 | CodeWithMosh - HTML5 & CSS3 Series Part2 Images | |
 | Day05 | 2021-01-19 | CodeWithMosh - HTML5 & CSS3 Series Part2 Forms | |
 | Day06 | 2021-01-20 | CodeWithMosh - HTML5 & CSS3 Series Part2 Done / Part3 34%| |
-| Day06 | 2021-01-22 | CodeWithMosh - HTML5 & CSS3 Series Part3 45%| |
-|       | 2021-01-23 | Break | |
+| Day07 | 2021-01-21 | CodeWithMosh - HTML5 & CSS3 Series Part3 45%| |
+|       | 2021-01-22 | Break | |
+| Day08 | 2021-01-23 | CodeWithMosh - HTML5 & CSS3 Series Part3 62%| |
+|       | 2021-01-24 | Break | |
 
 
