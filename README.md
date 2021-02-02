@@ -42,5 +42,6 @@ I decide to stop 100DaysOfCode here. From now I will start my 100DaysOfStudy by 
 |       | 2021-01-22 | Break | |
 | Day08 | 2021-01-23 | CodeWithMosh - HTML5 & CSS3 Series Part3 62%| |
 |       | 2021-01-24 | Break | |
+| Day09 | 2021-02-02 | Scala & Functional Programming - The absolute Scala Basics | |
 
 
