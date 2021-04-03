@@ -44,4 +44,9 @@ I decide to stop 100DaysOfCode here. From now I will start my 100DaysOfStudy by 
 |       | 2021-01-24 | Break | |
 | Day09 | 2021-02-02 | Scala & Functional Programming - The absolute Scala Basics | |
 
+## 100DaysOfCode (2021)
+Wanna restart this... Hope this time can last longer!
 
+| # | Date | Contents | Link | 
+| - | ---- | -------- | ---- |
+| Day01 | 2021-04-01 | React on Heroku |
