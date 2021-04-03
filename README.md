@@ -49,4 +49,4 @@ Wanna restart this... Hope this time can last longer!
 
 | # | Date | Contents | Link | 
 | - | ---- | -------- | ---- |
-| Day01 | 2021-04-01 | React on Heroku |
+| Day01 | 2021-04-01 | React on Heroku | [App](https://yujuc-countdown-app.herokuapp.com/) |
