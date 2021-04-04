@@ -5,6 +5,47 @@
 - [React Countdown](https://www.digitalocean.com/community/tutorials/react-countdown-timer-react-hooks)
 - [Heroku buildpack for React](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack)
 
+## App.js
+### Calculate the remaining time
+```
+const calculateTimeLeft = () => {
+  const year = new Date().getFullYear();
+  const difference = +new Date(`${year}/05/30`) - +new Date();
+  const timeLeft = {
+    days: Math.floor(difference / (1000 * 60 * 60 * 24)),
+    hours: Math.floor(difference / (1000 * 60 * 60) % 24),
+    minutes: Math.floor(difference / (1000 * 60) % 60),
+    seconds: Math.floor(difference / (1000) % 60)
+  };
+  return timeLeft
+}
+```
+
+### Apply React Hooks for updating timer
+```
+const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
+
+useEffect(() => {
+  const timer = setTimeout(() => {
+    setTimeLeft(calculateTimeLeft());
+  }, 1000);
+  return () => clearTimeout(timer);
+});
+```
+### Generate timer component
+```
+const timerComponents = [];
+Object.keys(timeLeft).forEach((interval) => {
+  if(!timeLeft[interval] && timeLeft[interval] !== 0) return;
+
+  timerComponents.push(
+    <span>
+      {timeLeft[interval]} {interval}{" "}
+    </span>
+  )
+})
+```
+
 ## Issue
 ### Can not push React code to Heroku
 File `package.json` is ignored in git, if you use `create-react-app` to generate the code.
