@@ -45,6 +45,38 @@ Object.keys(timeLeft).forEach((interval) => {
   )
 })
 ```
+## Percentage Bar
+- [Unicode percentage bar](https://changaco.oy.lc/unicode-progress-bars/)
+- [Emoji percentage bar](https://observablehq.com/@iosonosempreio/emojii-progress-bar)
+- [Twitter @year_progress](https://twitter.com/year_progress)
+
+### Calculate percentage
+```
+const calculatePercent = () => {
+  const totalInterval = +arriveTime - +departTime;
+  const passedInterval = +new Date() - +departTime;
+  const passedPercent = passedInterval / totalInterval;
+
+  return passedPercent * 100;
+};
+```
+
+### Generate Percnetage Bar Component
+```
+const visualizeProgress = (percent) => {
+  // Example: ▓▓▓▓░░░░░░░░░░░ 25%
+  const pastIcon = "▓";
+  const futureIcon = "░";
+  const numberOfGrid = 15;
+  const numberOfPastGrid = Math.floor((numberOfGrid * percent) / 100);
+  const numberOfFutureGrid = numberOfGrid - numberOfPastGrid;
+
+  const percentBarComponent =
+    pastIcon.repeat(numberOfPastGrid) + futureIcon.repeat(numberOfFutureGrid);
+
+  return percentBarComponent;
+};
+```
 
 ## Issue
 ### Can not push React code to Heroku
