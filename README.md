@@ -51,3 +51,4 @@ Wanna restart this... Hope this time can last longer!
 | - | ---- | -------- | ---- |
 | Day01 | 2021-04-03 | React countdown - deploy on Heroku | [[app]](https://yujuc-countdown-app.herokuapp.com/) [[doc]](https://github.com/yujuc/100DaysOfCode/blob/main/doc/react-countdown.md) |
 | Day02 | 2021-04-04 | React countdown - Add percentage bar | [[app]](https://yujuc-countdown-app.herokuapp.com/) [[doc]](https://github.com/yujuc/100DaysOfCode/blob/main/doc/react-countdown.md) |
+| Day03 | 2021-04-05 | React countdown - Make the countdown fancier | [[app]](https://yujuc-countdown-app.herokuapp.com/) [[doc]](https://github.com/yujuc/100DaysOfCode/blob/main/doc/react-countdown.md) |
