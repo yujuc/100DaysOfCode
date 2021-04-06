@@ -4,6 +4,7 @@
 
 - [React Countdown](https://www.digitalocean.com/community/tutorials/react-countdown-timer-react-hooks)
 - [Heroku buildpack for React](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack)
+- [Timer Design](https://techsolutionshere.com/how-to-create-an-animated-countdown-timer-with-html-css-and-javascript/)
 
 ## App.js
 ### Calculate the remaining time
@@ -97,8 +98,12 @@ Add this to index.html
 ```
 [Favicon generator](https://favicon.io/)
 
-
+### Web App on iOS doesn't refresh
+It seems like you have to update the index.html, and any files refered by it. Wanna find a better solution
 
 # Resource
 - [React Hooks](https://reactjs.org/docs/hooks-faq.html#what-can-i-do-if-my-effect-dependencies-change-too-often)
-  (Please study this)
+- Flex item control
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items
+  - https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
